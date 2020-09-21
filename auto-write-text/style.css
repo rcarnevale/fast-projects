@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    /* margin-top: 0; */
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    font-size: 2rem;
+    display: flex;
+}
